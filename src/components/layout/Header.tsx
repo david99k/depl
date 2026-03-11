@@ -8,6 +8,7 @@ const navItems = [
   { label: "페이지", href: "/pages" },
   { label: "게시판", href: "/boards" },
   { label: "요금제", href: "/pricing" },
+  { label: "고객센터", href: "/support" },
 ];
 
 export default function Header() {

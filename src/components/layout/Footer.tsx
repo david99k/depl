@@ -8,8 +8,9 @@ const footerLinks = {
   ],
   서비스: [
     { label: "요금제", href: "/pricing" },
-    { label: "도움말", href: "/help" },
-    { label: "업데이트", href: "/updates" },
+    { label: "고객센터", href: "/support" },
+    { label: "공지사항", href: "/support/notices" },
+    { label: "이용안내", href: "/support/guide" },
   ],
   회사: [
     { label: "소개", href: "/about" },
