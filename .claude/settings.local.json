@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(which tmux:*)",
+      "Bash(brew install:*)",
+      "Bash(rm /Users/gimdonghun/Documents/depl/index.html && npx create-next-app@14 . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git --use-npm 2>&1)",
+      "Bash(sudo chown:*)",
+      "Bash(which node:*)",
+      "Bash(HOME=/tmp/npmhome npx create-next-app@14 /Users/gimdonghun/Documents/depl --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git --use-npm 2>&1)",
+      "Bash(HOME=/tmp/npmhome npx create-next-app@14 /tmp/next-depl --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git --use-npm 2>&1)",
+      "Bash(tmux:*)"
+    ]
+  }
+}
